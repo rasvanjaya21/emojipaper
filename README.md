@@ -8,7 +8,7 @@ Demo : **[Check out Emojipapers Website](https://emojipapers.vercel.app/)**
 
 ### How to use  <img class=" lazyloaded" src="https://github.com/rasvanjaya21/emojipapers/blob/master/Emojis/Activities/Party%20Popper.png?raw=true" alt="Party Popper" title="Party Popper" width="31" height="31">
 
-#### 1. Visit Here : **[emojipapaer.vercel.app](https://emojipapers.vercel.app/)**
+#### 1. Visit Here : **[emojipapers.vercel.app](https://emojipapers.vercel.app/)**
 #### 2. You will see a list of emojis.
 #### 3. Hit <kbd>CTRL+F</kbd> and type the emoji name to find it. [**[ Name List ](https://support.microsoft.com/en-us/office/view-all-available-emojis-b9c2ccda-9ad9-4dbb-a25d-bbcebf6311ae)**]
 #### 4. Hover over the emoji.
