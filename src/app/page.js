@@ -1,7 +1,6 @@
 "use client"
 
 import { getRandomEmojiPath } from "@/lib/random-emoji-path"
-import Image from "next/image"
 import { useEffect, useState } from "react"
 
 export default function Home() {
@@ -21,7 +20,7 @@ export default function Home() {
 
 	return (
 		<main className="grid h-screen place-items-center">
-			<Image src={currentEmoji} alt="Emojipapers" width="256" height="256" />
+			<img src={currentEmoji} alt="Emojipapers" width="256" height="256" />
 		</main>
 	)
 }
