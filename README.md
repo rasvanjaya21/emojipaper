@@ -1,12 +1,13 @@
 <image src='screenshoot/showcase.gif' alt='Showcase' />
 
-## Emojipapers : a simple dynamic fullscreen website changeable background as period time based from collection of familiar, friendly, and modern emoji from Microsoft.
+## Emojipapers
+A simple dynamic fullscreen website changeable background as period time based from collection of familiar, friendly, and modern emoji from Microsoft.
 
 All the **[Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams)** animated fluent emojis are available in one place and ready to use in your next project or README file.
 
 Demo : **[Check out Emojipapers Website](https://emojipapers.vercel.app/)**
 
-### How to use  <img class=" lazyloaded" src="https://github.com/rasvanjaya21/emojipapers/blob/master/Emojis/Activities/Party%20Popper.png?raw=true" alt="Party Popper" title="Party Popper" width="31" height="31">
+### How to use  <img class=" lazyloaded" src="https://github.com/rasvanjaya21/emojipapers/blob/master/Emojis/Travel%20and%20places/Rocket.png?raw=true" alt="Party Popper" title="Party Popper" width="31" height="31">
 
 #### 1. Visit Here : **[emojipapers.vercel.app](https://emojipapers.vercel.app/)**
 #### 2. You will see a list of emojis.
